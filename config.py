@@ -9,7 +9,7 @@
 
 import os 
 
-TOKEN = os.environ.get("TOKEN", "")
-OWNER = os.environ.get("OWNER", "kenkanasw")
-GROUP = os.environ.get("GROUP", "aruna_mutual")
-CHANNEL = os.environ.get("CHANNEL", "gabutan_escape")
+TOKEN = os.environ.get("TOKEN", "6094432854:AAFXcWuaOmtWU3NlFOUOfTetXoF0jBmH7EQ")
+OWNER = os.environ.get("OWNER", "Lynx_XD")
+GROUP = os.environ.get("GROUP", "DuniaVirtualBase")
+CHANNEL = os.environ.get("CHANNEL", "DuniaVirtualMenfess")
